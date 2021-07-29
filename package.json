@@ -1,0 +1,18 @@
+{
+  "name": "gh-page-htmlcss",
+  "version": "1.0.0",
+  "description": "Making a new GitHub page using only html and css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "palmeuh",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap-icons": "^1.5.0"
+  }
+}
